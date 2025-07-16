@@ -1,0 +1,33 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f3f0;
+}
+
+header {
+  background-image: url('header-cafe.jpg');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+.carousel-item img {
+  height: 300px;
+  object-fit: cover;
+}
+
+h2 {
+  color: #5e412f;
+}
+main, header, footer {
+  background: rgba(0,0,0,0);
+  border-radius: 10px;
+  color: #fff;
+}
+.top-bg-cafe {
+      background: url('graos-cafe.jpg') no-repeat center top;
+      background-size: cover;
+      min-height: 300px;
+      width: 100%;
+    }
+    /* Opcional: deixa o texto do header mais legível */
+    
